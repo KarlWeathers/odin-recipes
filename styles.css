@@ -1,0 +1,17 @@
+body{
+    background: rgb(252, 242, 242);
+    font-family:'Courier New', Courier, monospace;
+}
+a{
+    color: black;
+}
+
+a:hover{
+    color: rgb(85, 85, 85);
+}
+
+img{
+    width: 300px;
+    height: auto;
+    
+}
